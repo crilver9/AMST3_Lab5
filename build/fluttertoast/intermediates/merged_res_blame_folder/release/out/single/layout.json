@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\g3amstLab5\\build\\fluttertoast\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-2\\files-2.1\\8ea4cb97a77cb0487022c16fd2fc35cb\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\g3amstLab5\\build\\fluttertoast\\intermediates\\res\\merged\\release\\layout\\toast_custom.xml",
+        "source": "C:\\Users\\Usuario\\Documents\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-8.0.9\\android\\src\\main\\res\\layout\\toast_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\g3amstLab5\\build\\fluttertoast\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-2\\files-2.1\\8ea4cb97a77cb0487022c16fd2fc35cb\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\g3amstLab5\\build\\fluttertoast\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-2\\files-2.1\\8ea4cb97a77cb0487022c16fd2fc35cb\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\g3amstLab5\\build\\fluttertoast\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-2\\files-2.1\\8ea4cb97a77cb0487022c16fd2fc35cb\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\g3amstLab5\\build\\fluttertoast\\intermediates\\res\\merged\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-2\\files-2.1\\8ea4cb97a77cb0487022c16fd2fc35cb\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\g3amstLab5\\build\\fluttertoast\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-2\\files-2.1\\8ea4cb97a77cb0487022c16fd2fc35cb\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    }
+]
