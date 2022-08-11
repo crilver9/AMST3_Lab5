@@ -1,4 +1,4 @@
-#Tue Aug 09 00:03:28 COT 2022
-base.0=C\:\\Users\\Usuario\\AndroidStudioProjects\\g3amstLab5\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+#Wed Aug 10 22:44:24 COT 2022
+base.0=C\:\\Users\\David Bowen\\AndroidStudioProjects\\AMST3_Lab5\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
