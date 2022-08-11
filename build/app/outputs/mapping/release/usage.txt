@@ -3902,9 +3902,9 @@ kotlin.sequences.GeneratorSequence
 kotlin.sequences.SequencesKt__SequenceBuilderKt$sequence$$inlined$Sequence$1
 androidx.customview.widget.ExploreByTouchHelper
 androidx.annotation.CheckResult
-io.flutter.embedding.engine.systemchannels.PlatformViewsChannel:
-    private static final java.lang.String TAG
 io.flutter.embedding.engine.systemchannels.PlatformChannel:
+    private static final java.lang.String TAG
+io.flutter.embedding.engine.systemchannels.PlatformViewsChannel:
     private static final java.lang.String TAG
 kotlinx.coroutines.flow.FlowKt__ReduceKt$single$$inlined$collect$1
 kotlin.Suppress
@@ -6724,8 +6724,8 @@ kotlin.text.MatchResult$Destructured
 androidx.core.view.TintableBackgroundView
 androidx.core.app.NotificationChannelCompat
 androidx.core.app.ActivityCompat$RequestPermissionsRequestCodeValidator
-kotlinx.coroutines.Delay
 kotlinx.coroutines.test.TestCoroutineContext
+kotlinx.coroutines.Delay
 androidx.customview.widget.FocusStrategy$SequentialComparator
 androidx.core.view.accessibility.AccessibilityNodeProviderCompat$AccessibilityNodeProviderApi19
 kotlinx.coroutines.channels.ChannelIterator:
@@ -7284,8 +7284,6 @@ androidx.core.content.ContextCompat:
 androidx.annotation.Dimension
 androidx.core.widget.EdgeEffectCompat
 androidx.core.view.accessibility.AccessibilityViewCommand$SetSelectionArguments
-kotlin.CharCodeJVMKt
-kotlinx.coroutines.channels.ChannelsKt__DeprecatedKt$map$1
 kotlinx.coroutines.intrinsics.UndispatchedKt:
     public static final void startCoroutineUnintercepted(kotlin.jvm.functions.Function1,kotlin.coroutines.Continuation)
     public static final void startCoroutineUnintercepted(kotlin.jvm.functions.Function2,java.lang.Object,kotlin.coroutines.Continuation)
@@ -7294,6 +7292,8 @@ kotlinx.coroutines.intrinsics.UndispatchedKt:
     public static final java.lang.Object startUndispatchedOrReturn(kotlinx.coroutines.internal.ScopeCoroutine,java.lang.Object,kotlin.jvm.functions.Function2)
     public static final java.lang.Object startUndispatchedOrReturnIgnoreTimeout(kotlinx.coroutines.internal.ScopeCoroutine,java.lang.Object,kotlin.jvm.functions.Function2)
     private static final java.lang.Object undispatchedResult(kotlinx.coroutines.internal.ScopeCoroutine,kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function0)
+kotlinx.coroutines.channels.ChannelsKt__DeprecatedKt$map$1
+kotlin.CharCodeJVMKt
 kotlinx.coroutines.channels.AbstractChannel:
     private final java.lang.Object receiveSuspend(int,kotlin.coroutines.Continuation)
     private final void registerSelectReceiveMode(kotlinx.coroutines.selects.SelectInstance,int,kotlin.jvm.functions.Function2)
@@ -8755,6 +8755,6 @@ androidx.core.content.res.ResourcesCompat:
     private static final java.lang.ThreadLocal sTempTypedValue
     private static final java.util.WeakHashMap sColorStateCaches
     private static final java.lang.Object sColorStateCacheLock
-io.flutter.plugin.platform.PlatformView$-CC
-io.flutter.view.TextureRegistry$SurfaceTextureEntry$-CC
 io.flutter.plugin.common.BinaryMessenger$-CC
+io.flutter.view.TextureRegistry$SurfaceTextureEntry$-CC
+io.flutter.plugin.platform.PlatformView$-CC

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Usuario\\AndroidStudioProjects\\g3amstLab5\\build\\fluttertoast\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-hi\\values-hi.xml",
+            "outputFile": "C:\\Users\\David Bowen\\AndroidStudioProjects\\AMST3_Lab5\\build\\fluttertoast\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-hi\\values-hi.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-2\\files-2.1\\8ea4cb97a77cb0487022c16fd2fc35cb\\core-1.6.0\\res\\values-hi\\values-hi.xml",
+                    "source": "C:\\Users\\David Bowen\\.gradle\\caches\\transforms-2\\files-2.1\\8ea4cb97a77cb0487022c16fd2fc35cb\\core-1.6.0\\res\\values-hi\\values-hi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Usuario\\AndroidStudioProjects\\g3amstLab5\\build\\fluttertoast\\intermediates\\res\\merged\\release\\values-hi\\values-hi.xml",
+            "outputFile": "C:\\Users\\David Bowen\\AndroidStudioProjects\\AMST3_Lab5\\build\\fluttertoast\\intermediates\\res\\merged\\release\\values-hi\\values-hi.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-2\\files-2.1\\8ea4cb97a77cb0487022c16fd2fc35cb\\core-1.6.0\\res\\values-hi\\values-hi.xml",
+                    "source": "C:\\Users\\David Bowen\\.gradle\\caches\\transforms-2\\files-2.1\\8ea4cb97a77cb0487022c16fd2fc35cb\\core-1.6.0\\res\\values-hi\\values-hi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
